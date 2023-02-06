@@ -1,0 +1,25 @@
+body {background-color: #F0F8FF;}
+p { font-family: Arial;}
+
+h2 { margin-left: 5em; margin-right: 5em; }
+
+.rangeslider{
+	width: 100%;
+}
+.myslider {
+	-webkit-appearance: none;
+	background: #B0E0E6  ; 
+	width: 50%;
+	height: 15px;
+	opacity: 1;
+} 
+.myslider::-webkit-slider-thumb {
+	-webkit-appearance: none;
+	cursor: grab;
+	background: #000000  ;
+	width: 5%;
+	height: 15px;
+}
+.myslider:hover {
+	opacity: 1;
+} 

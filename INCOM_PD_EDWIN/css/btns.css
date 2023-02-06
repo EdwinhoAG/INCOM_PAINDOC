@@ -1,0 +1,54 @@
+/* DEFAULT BTNS SETTINGS */
+.sbtn {
+	position: absolute;
+	border-radius: 50%; 
+	color: black;
+	cursor: pointer; 
+}
+
+/* BUTTON COLORS */
+.PD0 { background-color: lightcyan;	}
+.PD1 { background-color: green; }
+.PD2 { background-color: lightgreen; }
+.PD3 { background-color: lightgreen; }
+.PD4 { background-color: yellow; }
+.PD5 { background-color: yellow; }
+.PD6 { background-color: orange; }
+.PD7 { background-color: orange; }
+.PD8 { background-color: orangered; }
+.PD9 { background-color: red; }
+.PD10 { background-color: red; }
+
+/* BTN POSITION */
+.pHeadR { left: calc(590px/2 - 40px); top: calc(570px/2 - 10px); }
+.pHeadL { left: calc(690px/2 - 40px); top: calc(570px/2 - 10px); }
+
+.pNeckR { left: calc(580px/2 - 40px); top: calc(705px/2 - 10px); }
+.pNeckL { left: calc(700px/2 - 40px); top: calc(705px/2 - 10px); }
+
+.pShouR { left: calc(380px/2 - 40px); top: calc(805px/2 - 10px); }
+.pShouL { left: calc(900px/2 - 40px); top: calc(805px/2 - 10px); }
+
+.pElbowR { left: calc(335px/2 - 40px); top: calc(1200px/2 - 10px); }
+.pElbowL { left: calc(945px/2 - 40px); top: calc(1200px/2 - 10px); }
+
+.pHandR { left: calc(270px/2 - 40px); top: calc(1470px/2 - 10px); }
+.pHandL { left: calc(1010px/2 - 40px); top: calc(1470px/2 - 10px); }
+
+.pFingerR { left: calc(230px/2 - 40px); top: calc(1670px/2 - 10px); }
+.pFingerL { left: calc(1050px/2 - 40px); top: calc(1670px/2 - 10px); }
+
+.pHipR { left: calc(520px/2 - 40px); top: calc(1580px/2 - 10px); }
+.pHipL { left: calc(760px/2 - 40px); top: calc(1580px/2 - 10px); }
+
+.pKneeR { left: calc(535px/2 - 40px); top: calc(2010px/2 - 10px); }
+.pKneeL { left: calc(745px/2 - 40px); top: calc(2010px/2 - 10px); }
+
+.pAnkleR { left: calc(550px/2 - 40px); top: calc(2540px/2 - 10px); }
+.pAnkleL { left: calc(730px/2 - 40px); top: calc(2540px/2 - 10px); }
+
+.pFootR { left: calc(550px/2 - 40px); top: calc(2610px/2 - 10px); }
+.pFootL { left: calc(730px/2 - 40px); top: calc(2610px/2 - 10px); }
+
+.pToeR { left: calc(530px/2 - 40px); top: calc(2760px/2 - 10px); }
+.pToeL { left: calc(750px/2 - 40px); top: calc(2760px/2 - 10px); }
