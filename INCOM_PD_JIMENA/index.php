@@ -14,7 +14,6 @@
 		<script src="bookstore/jquery-3.6.3.min.js"></script>
 		<script src="bookstore/alertifyjs/alertify.js"></script>
 		<script src="bookstore/bootstrap/js/bootstrap.js"></script>
-		<script src="bookstore/select2/dist/js/select2.js"></script>
 
 </head>
 <body style="background-color: #F0F8FF;">
