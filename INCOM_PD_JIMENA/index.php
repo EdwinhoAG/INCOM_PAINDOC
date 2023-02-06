@@ -10,7 +10,6 @@
 		<link rel="stylesheet" type="text/css" href="bookstore/alertifyjs/css/alertify.css">
 		<link rel="stylesheet" type="text/css" href="bookstore/alertifyjs/css/themes/default.css">
 		<link rel="stylesheet" type="text/css" href="bookstore/bootstrap/css/bootstrap.css">
-		<link rel="stylesheet" type="text/css" href="bookstore/select2/dist/css/select2.css">
 		<link rel="stylesheet" type="text/css" href="bookstore/footer.css">
 		<script src="bookstore/jquery-3.6.3.min.js"></script>
 		<script src="bookstore/alertifyjs/alertify.js"></script>
